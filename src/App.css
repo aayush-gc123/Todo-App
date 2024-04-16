@@ -1,0 +1,15 @@
+/* media for 456px  */
+@media  only screen and (max-width:456px) {
+  
+  .conatiner{
+    background-color: red;
+  }
+
+  .container .content{
+    min-width: 300px;
+  }
+  .container .content .input-btn{
+    min-width: 60%;
+  }
+
+}
